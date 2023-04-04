@@ -8,6 +8,7 @@ body {
     padding: 0;
 }
 img {
+    height:auto;
     width: 500px;
     border: 0;
 }
